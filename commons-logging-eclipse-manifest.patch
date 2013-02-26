@@ -1,0 +1,14 @@
+--- commons-logging-1.1.1-src/src/conf/MANIFEST.MF.0001~	2013-02-24 01:52:09.053543415 +0100
++++ commons-logging-1.1.1-src/src/conf/MANIFEST.MF	2013-02-24 01:52:54.778971768 +0100
+@@ -6,3 +6,11 @@ Implementation-Title: Commons Logging
+ Implementation-Vendor-Id: org.apache
+ Implementation-Vendor: Apache Software Foundation
+ Implementation-Version: 1.1.1
++Bundle-ManifestVersion: 2
++Export-Package: org.apache.commons.logging;version="1.0.4",org.apache.commons.logging.impl;version="1.0.4"
++Bundle-Version: 1.0.4.v20080605-1930
++Bundle-SymbolicName: org.apache.commons.logging
++Bundle-Name: Apache Commons Logging Plug-in
++Bundle-RequiredExecutionEnvironment: CDC-1.0/Foundation-1.0,J2SE-1.3
++Bundle-Localization: plugin
++Bundle-Vendor: Apache Software Foundation
