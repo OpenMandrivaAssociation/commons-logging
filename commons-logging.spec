@@ -2,7 +2,7 @@
 
 Name:           commons-logging
 Version:        1.1.1
-Release:        5
+Release:        6
 Summary:        Jakarta Commons Logging Package
 License:        Apache License
 Group:          Development/Java
