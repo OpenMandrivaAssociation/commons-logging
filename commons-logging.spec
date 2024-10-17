@@ -6,7 +6,7 @@ Release:        6
 Summary:        Jakarta Commons Logging Package
 License:        Apache License
 Group:          Development/Java
-URL:            http://commons.apache.org/logging/
+URL:            https://commons.apache.org/logging/
 Source0:        http://mirror.lwnetwork.org.uk/APACHE/commons/logging/source/%name-%version-src.tar.gz
 Patch1:         %name-eclipse-manifest.patch
 BuildRequires:  ant
